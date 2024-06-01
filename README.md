@@ -21,7 +21,7 @@ Tibero on Unix Plugin is designed for virtualizing Tibero database running on OS
 
 ### User Documentation
 
-Documentation to install, build, upload and use the plugin is available at: https://developer.delhpix.com
+Documentation to install, build, upload and use the plugin is available at: https://developer.delphix.com
 
 ## Contributing
 
